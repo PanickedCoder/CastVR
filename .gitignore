@@ -2,3 +2,9 @@
 *.exe
 *.pdb
 *.pch
+*.log
+*.runtime-xml
+Saved/Crashes/UE4CC-Windows-6C9323DF4D9129FDCB1A8EA1ECD6C6F9_0000/CrashReportClient.ini
+Saved/Crashes/UE4CC-Windows-AFDC3A65499DFD80FB70F588D1D5B76E_0000/UE4Minidump.dmp
+Saved/Crashes/UE4CC-Windows-AFDC3A65499DFD80FB70F588D1D5B76E_0000/CrashReportClient.ini
+Saved/Crashes/UE4CC-Windows-6C9323DF4D9129FDCB1A8EA1ECD6C6F9_0000/UE4Minidump.dmp
