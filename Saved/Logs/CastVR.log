@@ -1448,3 +1448,91 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.07-10.42.21:373][804]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.07-10.42.21:373][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2022.02.07-10.42.21:374][804]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.07-10.51.03:328][344]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.02.07-10.51.03:349][344]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2022.02.07-10.51.15:082][ 41]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2022.02.07-10.51.20:196][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor4)
+[2022.02.07-10.51.22:276][464]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifier_NoTeleport2)
+[2022.02.07-10.52.00:391][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.07-10.52.00:415][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.02.07-10.52.01:275][748]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap714FEA244C6628A424CBE195554A6EA9.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.07-10.52.01:281][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.07-10.52.01:866][748]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltData9F5987624CF602A8E407D1B4E5860DC7.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.07-10.52.01:915][748]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-10.52.01:915][748]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.07-10.52.01:915][748]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.07-10.52.11:171][303]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySpherePC2)
+[2022.02.07-11.01.45:163][552]LogEditorViewport: Clicking on Actor (LMB): VRPawn_C (VRPawn)
+[2022.02.07-11.02.01:258][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-11.02.01:258][514]PIE: New page: SIE session: VRTemplateMap (7 Feb 2022, 11:02:01)
+[2022.02.07-11.02.01:260][514]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.07-11.02.01:261][514]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.07-11.02.01:264][514]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.02.07-11.02.01:284][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020388s)
+[2022.02.07-11.02.01:286][514]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.02.07-11.02.01:287][514]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2022.02.07-11.02.01:287][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.022893s)
+[2022.02.07-11.02.01:310][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.07-11.02.01:314][514]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.02.07-11.02.01:314][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.02.07-11.02.01:314][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-11.02.01:315][514]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.02.07-11.02.01:315][514]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.02.07-11.02.01:315][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.07-11.02.01:315][514]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-11.02.01:318][514]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-11.02.01:318][514]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-11.02.01:324][514]LogAudioMixer: Display: Using Audio Device Speakers (USB PnP Sound Device)
+[2022.02.07-11.02.01:324][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-11.02.01:324][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-11.02.01:324][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-11.02.01:324][514]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-11.02.01:324][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-11.02.01:324][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-11.02.01:325][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-11.02.01:325][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-11.02.01:325][514]LogInit: FAudioDevice initialized.
+[2022.02.07-11.02.01:325][514]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.02.07-11.02.01:342][514]LogLoad: Game class is 'VRGameMode_C'
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target2_2.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target2_2.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target3.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target3.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target4.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target4.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target5.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:345][514]PIE: Warning: Invalid Simulate Options: Body (Target5.TargetHitbox) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.07-11.02.01:346][514]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.02.07-11.02.01
+[2022.02.07-11.02.01:353][514]LogWorld: Bringing up level for play took: 0.010390
+[2022.02.07-11.02.01:354][514]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.02.07-11.02.01:363][514]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.07-11.02.01:366][514]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.07-11.02.01:380][514]PIE: Server logged in
+[2022.02.07-11.02.01:384][514]PIE: Play in editor total start time 0.13 seconds.
+[2022.02.07-11.02.01:430][514]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.02.07-11.02.14:026][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-11.02.14:026][240]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.02.07-11.02.14:027][240]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-11.02.14:027][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.02.14:038][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-11.02.14:049][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.02.14:071][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-11.02.14:071][240]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.02.07-11.02.14:071][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-11.02.14:072][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-11.02.14:075][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-11.02.14:100][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.02.07-11.02.14:142][241]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.02.07-11.02.35:892][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.07-11.02.35:910][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.07-11.02.35:935][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.07-11.02.36:769][527]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMapCE6E11484D9476F6EA39F99F43C48CC9.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.07-11.02.36:776][527]LogFileHelpers: Saving map 'VRTemplateMap' took 0.866
+[2022.02.07-11.02.36:798][527]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.02.07-11.02.36:798][527]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
