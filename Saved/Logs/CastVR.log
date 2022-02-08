@@ -2485,3 +2485,387 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.08-10.05.51:306][ 37]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.08-10.05.51:306][ 37]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2022.02.08-10.05.51:306][ 37]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.08-10.11.32:009][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube5)
+[2022.02.08-10.11.43:147][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube3)
+[2022.02.08-10.11.45:260][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube5)
+[2022.02.08-10.11.45:685][851]Cmd: TRANSACTION UNDO
+[2022.02.08-10.11.45:685][851]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.08-10.11.46:313][872]Cmd: TRANSACTION UNDO
+[2022.02.08-10.11.46:313][872]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.08-10.11.46:727][895]Cmd: TRANSACTION UNDO
+[2022.02.08-10.11.46:727][895]LogEditorTransaction: Undo Move Actors
+[2022.02.08-10.11.48:227][984]Cmd: MODE GRID=1
+[2022.02.08-10.11.52:288][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube3)
+[2022.02.08-10.12.08:065][121]Cmd: TRANSACTION UNDO
+[2022.02.08-10.12.08:065][121]LogEditorTransaction: Undo Scale Actors
+[2022.02.08-10.12.17:747][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube5)
+[2022.02.08-10.12.38:798][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube3)
+[2022.02.08-10.12.39:808][950]Cmd: DELETE
+[2022.02.08-10.12.39:808][950]Cmd: ACTOR DELETE
+[2022.02.08-10.12.39:813][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.08-10.12.39:848][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.08-10.12.39:851][950]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.02.08-10.12.40:206][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube5)
+[2022.02.08-10.12.40:332][977]Cmd: DELETE
+[2022.02.08-10.12.40:332][977]Cmd: ACTOR DELETE
+[2022.02.08-10.12.40:337][977]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.08-10.12.40:367][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.08-10.12.40:368][977]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.02.08-10.12.41:254][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.08-10.12.41:738][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2022.02.08-10.12.42:018][ 72]Cmd: DELETE
+[2022.02.08-10.12.42:018][ 72]Cmd: ACTOR DELETE
+[2022.02.08-10.12.42:024][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.08-10.12.42:052][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.08-10.12.42:055][ 72]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.02.08-10.12.48:981][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube2)
+[2022.02.08-10.12.51:597][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube10)
+[2022.02.08-10.12.52:193][675]Cmd: EDIT COPY
+[2022.02.08-10.12.52:977][722]Cmd: EDIT PASTE
+[2022.02.08-10.13.14:866][974]Cmd: MODE GRID=0
+[2022.02.08-10.13.21:442][365]Cmd: MODE GRID=1
+[2022.02.08-10.14.13:422][396]Cmd: EDIT COPY
+[2022.02.08-10.14.13:722][414]Cmd: EDIT PASTE
+[2022.02.08-10.14.45:170][230]Cmd: MODE GRID=0
+[2022.02.08-10.14.59:254][ 55]Cmd: MODE GRID=1
+[2022.02.08-10.14.59:805][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.08-10.14.59:837][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.08-10.15.00:747][ 87]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMapA663476A4E9E19325D7C10A501E0CC7C.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.08-10.15.00:754][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.08-10.15.01:341][ 87]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltData25DB069B4B99255211B32D9FA908BF3B.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.08-10.15.01:358][ 87]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.08-10.15.01:358][ 87]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.08-10.15.01:358][ 87]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.08-10.15.03:921][240]MapCheck: New page: Map Check
+[2022.02.08-10.15.03:938][240]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.08-10.15.03:938][240]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.08-10.15.03:942][240]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=false
+[2022.02.08-10.15.03:971][240]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.08-10.15.03:971][240]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.08-10.15.03:971][240]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.08-10.15.03:982][240]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.02.08-10.15.04:108][240]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.14s
+[2022.02.08-10.15.04:141][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.08-10.15.04:178][240]LogLevel: Display: Export Material TexCoord Scales took 0.035 seconds.
+[2022.02.08-10.15.04:183][240]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.02.08-10.15.04:214][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.02.08-10.15.04:216][240]LightingResults: New page: Lighting Build - 8 Feb 2022, 10:15:04
+[2022.02.08-10.15.04:237][240]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.08-10.15.04:240][240]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.08-10.15.04:240][240]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.08-10.15.04:241][240]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.08-10.15.04:241][240]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10572
+[2022.02.08-10.15.08:841][240]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.08-10.15.08:841][240]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.08-10.15.08:841][240]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.08-10.15.08:841][240]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.08-10.15.08:841][240]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.08-10.15.08:983][240]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.08-10.15.08:984][240]MapCheck: New page: VRTemplateMap - 8 Feb 2022, 10:15:08
+[2022.02.08-10.15.08:984][240]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.02.08-10.15.08:984][240]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.499ms to complete.
+[2022.02.08-10.15.08:987][240]LogEditorBuildUtils: Build time 0:05
+[2022.02.08-10.15.09:008][240]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.08-10.15.09:008][240]LogShaderCompilers: Display: Total job queries 108, among them cache hits 0 (0.00%)
+[2022.02.08-10.15.09:008][240]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 86 distinct outputs (79.63%)
+[2022.02.08-10.15.09:008][240]LogShaderCompilers: Display: RAM used: 1.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2022.02.08-10.15.09:008][240]LogShaderCompilers: Display: ================================================
+[2022.02.08-10.15.09:170][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.08-10.15.18:227][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySpherePC2)
+[2022.02.08-10.15.26:965][244]Job is a success!
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.08-10.15.27:166][246]LogVolumetricLightmapImport:          VRTemplateMap 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.02.08-10.15.27:903][246]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.08-10.15.27:903][246]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.02.08-10.15.27:903][246]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.08-10.15.27:903][246]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.08-10.15.27:903][246]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:903][246]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 256X256)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 128X128)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 128X128)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: HQ_Lightmap0_21 (OODLE_AutoDXT, 128X128)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (OODLE_DXT1, 128X128)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: HQ_Lightmap0_22 (OODLE_AutoDXT, 128X128)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (OODLE_DXT1, 128X128)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: HQ_Lightmap0_23 (OODLE_AutoDXT, 64X64)
+[2022.02.08-10.15.27:904][246]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (OODLE_DXT1, 64X64)
+[2022.02.08-10.15.28:103][246]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 256X64)
+[2022.02.08-10.15.28:103][246]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 256X64)
+[2022.02.08-10.15.28:103][246]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 128X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 128X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 128X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 256X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 32X32)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 128X64)
+[2022.02.08-10.15.28:104][246]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 256X64)
+[2022.02.08-10.15.28:210][246]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 1024X1024)
+[2022.02.08-10.15.28:210][246]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 1024X1024)
+[2022.02.08-10.15.28:210][246]Lightmass on LAPTOP-HFREQUKT: 18.5 sec total, 335 ms importing, 261 ms setup, 3.49 sec photons, 14.4 sec processing, 0 ms extra exporting [194/194 mappings]. Threads: 1:40 min total, 1:08 min processing.
+[2022.02.08-10.15.28:210][246]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 73 meshes in 29 LightmapResourceClusters (2.5 Meshes per cluster).
+[2022.02.08-10.15.28:244][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.08-10.15.28:266][246]LogStaticLightingSystem: Illumination: 24.0 sec (501 ms encoding lightmaps, 211 ms encoding shadowmaps)
+[2022.02.08-10.15.28:266][246]LogStaticLightingSystem: Lightmap texture memory:  8.1 MB (8.1 MB streaming, 0.0 MB non-streaming), 46 textures
+[2022.02.08-10.15.28:266][246]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 22 textures
+[2022.02.08-10.15.28:845][246]DumpUnbuiltLightIteractions
+[2022.02.08-10.15.28:845][246]Lights with unbuilt interactions: 0
+[2022.02.08-10.15.28:845][246]
+[2022.02.08-10.15.28:845][246]Primitives with unbuilt interactions: 0
+[2022.02.08-10.15.28:906][246]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 32X32)
+[2022.02.08-10.15.28:927][247]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.08-10.15.28:927][247]MapCheck: New page: VRTemplateMap - 8 Feb 2022, 10:15:28
+[2022.02.08-10.15.28:928][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.466ms to complete.
+[2022.02.08-10.15.46:054][245]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (1M_Cube10)
+[2022.02.08-10.15.48:020][331]LogEditorViewport: Clicking on Actor (double click): Grabbable_SmallCube_C (GrabActor_StaticMesh_Physics3)
+[2022.02.08-10.16.16:883][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.08-10.16.26:018][495]LogEditorViewport: Clicking on Actor (LMB): VRPawn_C (VRPawn)
+[2022.02.08-10.16.30:255][738]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.02.08-10.16.40:566][309]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2022.02.08-10.16.53:833][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.08-10.16.53:866][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.02.08-10.16.53:878][ 92]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.08-10.16.53:881][ 92]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.02.08-10.16.53:881][ 92]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.02.08-10.16.53:882][ 92]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.02.08-10.16.53:882][ 92]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.02.08-10.16.54:766][ 92]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap4C9D121B4C5C39AECAF311B0B34E7B17.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.08-10.16.54:773][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.08-10.16.55:284][ 92]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltDataA18B760C4D6B893CCBBBF7BBC73B7896.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.08-10.16.55:296][ 92]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.08-10.16.55:296][ 92]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.08-10.16.55:296][ 92]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.08-10.17.56:712][459]Cmd: TRANSACTION UNDO
+[2022.02.08-10.17.56:712][459]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.08-10.17.56:823][459]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.02.08-10.17.56:824][459]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.02.08-10.17.56:824][459]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.02.08-10.17.56:825][459]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.02.08-10.17.56:825][459]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.08-10.18.10:043][214]Cmd: TRANSACTION UNDO
+[2022.02.08-10.18.10:044][214]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.02.08-10.18.17:410][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.08-10.18.17:447][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.02.08-10.18.17:459][574]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.08-10.18.17:462][574]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.02.08-10.18.17:463][574]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.02.08-10.18.17:464][574]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.02.08-10.18.17:465][574]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.02.08-10.18.18:373][574]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap7B1B85CA4D06DDC48AB551AC44F5C9B1.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.08-10.18.18:380][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.08-10.18.18:885][574]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltData791529B34462FC3CA8FD98BB5D3948A8.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.08-10.18.18:902][574]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.08-10.18.18:902][574]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.08-10.18.18:902][574]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.08-10.18.32:257][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.08-10.18.32:288][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.08-10.18.32:298][327]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.02.08-10.18.32:301][327]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.02.08-10.18.32:302][327]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.02.08-10.18.32:302][327]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.02.08-10.18.32:303][327]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.02.08-10.18.33:260][327]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap64B975604658F5D49DAF159FF899A657.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.08-10.18.33:267][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.08-10.18.33:744][327]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltData60B445C64B1BB37DD53B91B9070B95C7.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.08-10.18.33:759][327]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.08-10.18.33:759][327]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.08-10.18.33:759][327]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.08-10.18.35:392][420]MapCheck: New page: Map Check
+[2022.02.08-10.18.35:408][420]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.08-10.18.35:408][420]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.08-10.18.35:412][420]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=false
+[2022.02.08-10.18.35:442][420]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.08-10.18.35:442][420]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.08-10.18.35:442][420]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.08-10.18.35:453][420]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.02.08-10.18.35:586][420]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.14s
+[2022.02.08-10.18.35:618][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.02.08-10.18.35:661][420]LogLevel: Display: Export Material TexCoord Scales took 0.043 seconds.
+[2022.02.08-10.18.35:664][420]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.02.08-10.18.35:697][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.08-10.18.35:699][420]LightingResults: New page: Lighting Build - 8 Feb 2022, 10:18:35
+[2022.02.08-10.18.35:721][420]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.08-10.18.35:724][420]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.08-10.18.35:724][420]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.08-10.18.35:725][420]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.08-10.18.35:725][420]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10572
+[2022.02.08-10.18.40:312][420]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.08-10.18.40:312][420]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.08-10.18.40:312][420]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.08-10.18.40:312][420]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.08-10.18.40:312][420]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.08-10.18.40:462][420]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.08-10.18.40:462][420]MapCheck: New page: VRTemplateMap - 8 Feb 2022, 10:18:40
+[2022.02.08-10.18.40:462][420]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.02.08-10.18.40:462][420]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.474ms to complete.
+[2022.02.08-10.18.40:464][420]LogEditorBuildUtils: Build time 0:05
+[2022.02.08-10.18.40:491][420]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.08-10.18.40:491][420]LogShaderCompilers: Display: Total job queries 108, among them cache hits 0 (0.00%)
+[2022.02.08-10.18.40:491][420]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 86 distinct outputs (79.63%)
+[2022.02.08-10.18.40:491][420]LogShaderCompilers: Display: RAM used: 1.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2022.02.08-10.18.40:491][420]LogShaderCompilers: Display: ================================================
+[2022.02.08-10.18.41:331][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.08-10.18.57:543][476]Job is a success!
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.08-10.18.58:036][477]LogVolumetricLightmapImport:          VRTemplateMap 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.08-10.18.58:774][477]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.08-10.18.58:774][477]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.02.08-10.18.58:774][477]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.08-10.18.58:774][477]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.02.08-10.18.58:775][477]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.08-10.18.58:775][477]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.08-10.18.58:775][477]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:775][477]LogTexture: Display: Building textures: HQ_Lightmap1_13 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_14 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_15 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_16 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_17 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_18 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_19 (OODLE_AutoDXT, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (OODLE_DXT1, 256X256)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_20 (OODLE_AutoDXT, 128X128)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (OODLE_DXT1, 128X128)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_21 (OODLE_AutoDXT, 128X128)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (OODLE_DXT1, 128X128)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_22 (OODLE_AutoDXT, 128X128)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (OODLE_DXT1, 128X128)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: HQ_Lightmap1_23 (OODLE_AutoDXT, 64X64)
+[2022.02.08-10.18.58:776][477]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (OODLE_DXT1, 64X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 128X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 128X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (G8, 128X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_139 (G8, 32X32)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_138 (G8, 128X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (G8, 256X64)
+[2022.02.08-10.18.58:975][477]LogTexture: Display: Building textures: ShadowMapTexture2D_137 (G8, 256X64)
+[2022.02.08-10.18.59:032][477]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 1024X1024)
+[2022.02.08-10.18.59:032][477]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 1024X1024)
+[2022.02.08-10.18.59:032][477]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 73 meshes in 29 LightmapResourceClusters (2.5 Meshes per cluster).
+[2022.02.08-10.18.59:064][477]Lightmass on LAPTOP-HFREQUKT: 17.2 sec total, 311 ms importing, 262 ms setup, 3.61 sec photons, 13.0 sec processing, 0 ms extra exporting [194/194 mappings]. Threads: 1:31 min total, 57.7 sec processing.
+[2022.02.08-10.18.59:067][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.08-10.18.59:080][477]LogStaticLightingSystem: Illumination: 23.0 sec (472 ms encoding lightmaps, 224 ms encoding shadowmaps)
+[2022.02.08-10.18.59:080][477]LogStaticLightingSystem: Lightmap texture memory:  8.1 MB (8.1 MB streaming, 0.0 MB non-streaming), 46 textures
+[2022.02.08-10.18.59:080][477]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 22 textures
+[2022.02.08-10.18.59:313][477]DumpUnbuiltLightIteractions
+[2022.02.08-10.18.59:313][477]Lights with unbuilt interactions: 0
+[2022.02.08-10.18.59:313][477]
+[2022.02.08-10.18.59:313][477]Primitives with unbuilt interactions: 0
+[2022.02.08-10.18.59:405][477]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 32X32)
+[2022.02.08-10.18.59:428][478]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.08-10.18.59:428][478]MapCheck: New page: VRTemplateMap - 8 Feb 2022, 10:18:59
+[2022.02.08-10.18.59:429][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.546ms to complete.
+[2022.02.08-10.20.47:621][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.08-10.20.47:638][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.08-10.20.47:670][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.08-10.20.48:588][ 59]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap2948AA184F5F8B074A4EA9BCC5CFF650.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.08-10.20.48:593][ 59]LogFileHelpers: Saving map 'VRTemplateMap' took 0.956
+[2022.02.08-10.20.48:593][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.08-10.20.49:070][ 59]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltData682F870148A0EB3668C4BA8DA42FEE2F.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.08-10.20.49:072][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.08-10.20.49:553][ 59]LogSavePackage: Moving 'C:/Users/mario/Documents/GitHub/CastVR/Saved/VRTemplateMap_BuiltData69CFF733407E0ADBB6A3DB8B497FB327.tmp' to 'C:/Users/mario/Documents/GitHub/CastVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.08-10.20.49:567][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.08-10.20.49:567][ 59]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.08-10.20.49:567][ 59]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
