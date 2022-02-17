@@ -231,6 +231,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B4E7CCE4A75B7C6AD624C6AAFB25B6B64FE89BC2",
+			"Assets": [
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
 			"ShaderMapHash": "3AEA23261B30D374DD46DF72B8D046BC98F25596",
 			"Assets": [
 				"/Game/VRTemplate/Materials/M_TeleportNoise"
@@ -243,12 +249,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B4E7CCE4A75B7C6AD624C6AAFB25B6B64FE89BC2",
-			"Assets": [
-				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
-			]
-		},
-		{
 			"ShaderMapHash": "DDE12E9A7262196CC55C309242026E0241A9EB16",
 			"Assets": [
 				"/Game/VRTemplate/Materials/M_VRCursor"
@@ -258,6 +258,12 @@
 			"ShaderMapHash": "312E7EA21ACF8CAF105ABCCCF52F308E20B575C2",
 			"Assets": [
 				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "68AB14974CF95B106912C17667A544FE67446296",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -277,12 +283,6 @@
 			"ShaderMapHash": "1BAE34248AE37A21232C56B6088E1BFAB469BA70",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "68AB14974CF95B106912C17667A544FE67446296",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -611,33 +611,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "87890EEDFE7C601E274A77C0B46919D5C77A2EE1",
+			"ShaderMapHash": "8BEBF850B91F879A5D71C0D6A01DD71DB6DE7142",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Copper"
-			]
-		},
-		{
-			"ShaderMapHash": "B4946EB37233DB9B5D506A48292B001C2D099559",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
-			]
-		},
-		{
-			"ShaderMapHash": "E2F1E89B7FE0C9AD858279684AD6C1AB9B2F14DB",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
-			]
-		},
-		{
-			"ShaderMapHash": "159C6E5B8CAFB7AC6EDA83AC4F352EB86F2CE12B",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Lamp"
-			]
-		},
-		{
-			"ShaderMapHash": "7D97828A6A35040849C391FFCC57C854CAFB73E7",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Spark"
+				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
@@ -647,9 +623,57 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8BEBF850B91F879A5D71C0D6A01DD71DB6DE7142",
+			"ShaderMapHash": "87890EEDFE7C601E274A77C0B46919D5C77A2EE1",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Floor"
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "159C6E5B8CAFB7AC6EDA83AC4F352EB86F2CE12B",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "E2F1E89B7FE0C9AD858279684AD6C1AB9B2F14DB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "7D97828A6A35040849C391FFCC57C854CAFB73E7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "B4946EB37233DB9B5D506A48292B001C2D099559",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "F0609B0BA049372BFB48839A6AB78E58B54C5838",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "C6E11CF589B7C93F906EE66AD823C66EB665881F",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A3D9797345C7616B905A1FA74F0E21C5E0263169",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "2D11FC23D2D71E296EFB85B4ADD7DD96930859AB",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
 			]
 		},
 		{
@@ -681,30 +705,6 @@
 			"ShaderMapHash": "E7F6B4653261561C96DD959A1ECECFBF49541B71",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
-			]
-		},
-		{
-			"ShaderMapHash": "A3D9797345C7616B905A1FA74F0E21C5E0263169",
-			"Assets": [
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
-			]
-		},
-		{
-			"ShaderMapHash": "2D11FC23D2D71E296EFB85B4ADD7DD96930859AB",
-			"Assets": [
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
-			]
-		},
-		{
-			"ShaderMapHash": "C6E11CF589B7C93F906EE66AD823C66EB665881F",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "F0609B0BA049372BFB48839A6AB78E58B54C5838",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_AssetPlatform"
 			]
 		},
 		{
