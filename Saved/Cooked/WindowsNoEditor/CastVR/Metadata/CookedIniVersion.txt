@@ -587,6 +587,8 @@ Engine:/Script/TcpMessaging.TcpMessagingSettings:ListenEndpoint:0=
 Engine:/Script/TcpMessaging.TcpMessagingSettings:ConnectionRetryDelay:0=2
 Engine:CrashReportClient:CrashConfigPurgeDays:0=2
 Engine:/Script/Engine.AnimationSettings:bStripAnimationDataOnDedicatedServer:0=False
+Engine:Animation.DefaultObjectSettings:BoneCompressionSettings:0=/Engine/Animation/DefaultAnimBoneCompressionSettings
+Engine:Animation.DefaultObjectSettings:CurveCompressionSettings:0=/Engine/Animation/DefaultAnimCurveCompressionSettings
 Engine:/Script/Engine.MeshSimplificationSettings:r.MeshReductionModule:0=QuadricMeshReduction
 Engine:/Script/LevelSequence.LevelSequence:DefaultCompletionMode:0=RestoreState
 Engine:/Script/TemplateSequence.TemplateSequence:DefaultCompletionMode:0=RestoreState
@@ -605,7 +607,7 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphic
 Engine:/Script/Slate.SlateSettings:bExplicitCanvasChildZOrder:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/mario/Documents/Unreal Projects/CastVR/CastVRDemo")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/CastVRBuild")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -689,7 +691,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=E74BD1F746ADF41ED60A418D6EDDA68A
-Game:/Script/EngineSettings.GeneralProjectSettings:bStartInVR:0=True
+Game:/Script/EngineSettings.GeneralProjectSettings:bStartInVR:0=False
 Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
 Game:/Script/Engine.PlayerController:InputRollScale:0=1.0
