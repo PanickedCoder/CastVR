@@ -2,3 +2,15 @@
 *.exe
 *.pdb
 *.pch
+*.log
+*.runtime-xml
+Saved/Crashes/UE4CC-Windows-6C9323DF4D9129FDCB1A8EA1ECD6C6F9_0000/CrashReportClient.ini
+Saved/Crashes/UE4CC-Windows-AFDC3A65499DFD80FB70F588D1D5B76E_0000/UE4Minidump.dmp
+Saved/Crashes/UE4CC-Windows-AFDC3A65499DFD80FB70F588D1D5B76E_0000/CrashReportClient.ini
+Saved/Crashes/UE4CC-Windows-6C9323DF4D9129FDCB1A8EA1ECD6C6F9_0000/UE4Minidump.dmp
+Saved/Config/CrashReportClient/UE4CC-Windows-F641A0004E8FFFC76792E79D9D1A527D/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-EE2B103244D608CF01B686A5BEF0410E/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-6B6506224F7FCA4F7EE675A84C1BE057/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-5C6C714F4F66CFFF732AB99B4AC3C93F/CrashReportClient.ini
+Saved/StagedBuilds/WindowsNoEditor/CastVR/Content/Paks/CastVR-WindowsNoEditor.pak
+Saved/Logs/CastVR.log
